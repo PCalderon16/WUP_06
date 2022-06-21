@@ -61,8 +61,8 @@ basicC + geom_bar(stat="identity",position="dodge")
 basicCC <- ggplot(dd2,aes(x=race,y=prcnt*100,fill=cappun)) 
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
-
-
+  
+The first graph above, which includes the counts of people who are in favor of and are opposed to capitol punishment, shows that about 350 out of the about 500 white people are in favor of capitol punishment. The second graph shows that  more than 65% of the group are in favor of capital punishment. On the other hand, more than half of black people are opposed to capitol punishment while more than half of other racial groups are in favor of it.  
 
 ### Numerical Descriptive Results
 
